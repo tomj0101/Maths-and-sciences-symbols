@@ -1,7 +1,7 @@
 # Maths
 Different helpers and symbols for create different scientific document.
 
-# Mathematical symbols - Part I 
+### Mathematical symbols - Part I 
 I don't know if for you guys is easy when you need to type some Maths symbols the is not in your keyboard, but for me is not, for this reason I create this short math symbol list.
 ```
 ⟨ ⟩ ⟦ ⟧ ⌊ ⌈ ⌋ ⌉ ↑ ⇐ ← ↦ ℰ ℓ ℒ ℳ ’ “ ” – —
@@ -18,7 +18,7 @@ Compare:
 
 ```
 
-# Mathematical symbols - Part II (Simple symbols)
+### Mathematical symbols - Part II (Simple symbols)
 ```
 Symbol 	      Meaning 	                                Example
 + 	          add 	                                    3+7 = 10
@@ -41,7 +41,7 @@ Symbol 	      Meaning 	                                Example
               therefore  	                              a=b b=a
 ```
 
-# Currency symbols
+### Currency symbols
 ```
  	   name 	        usage
 ----------------------------------  
@@ -60,7 +60,7 @@ $	   dollar	        United States (USD), Canada (CAD), Australia (AUD), etc.
 ₩	   won	          South Korea (KRW)
 ```
 
-# Generics symbols
+### Generics symbols
 ```
 ★ ☆ ☀ ☼ ☁ ☂ ☃ ❄ ☽ ✂ ✋ ♿ ⌖ ☯ ☢ ⚑ ♀ ♂ ⚠︎
 ☎ ✆ ✈ ✉ ✍ ✎ ▪ ■ ● ◀︎ ▶︎ ▲ ▼ ▫︎ □ ○ ◌ ◁︎ ▷ △ ▽
@@ -70,7 +70,7 @@ $	   dollar	        United States (USD), Canada (CAD), Australia (AUD), etc.
 $ € ¢ £ ¥ № § † ‡ ⁂ ¶ …
 ```
 
-#  IPA phonetic symbols (English)
+### IPA phonetic symbols (English)
 ```
 ʃ θ t̬ ʊ ʊ̈ ʌ ʒ ʔ ᵊ ʳ → ‖ ᵗ ˈ ˌ ː æ ɑ ð ə ɚ ɛ ɜ ɝ ɪ ɪ̈ ɫ ŋ ɔ ɒ ɹ ɾ
 ```
