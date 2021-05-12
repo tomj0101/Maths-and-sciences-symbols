@@ -19,11 +19,12 @@ Compare:
 ```
 
 ### Mathematical symbols - Part II (Simple symbols)
-```
 | Symbol        | Meaning       |Example      |
 | ------------- | ------------- |------------- |
 | +  | add  |3+7 = 10  |
 | Content Cell  | Content Cell  |Content Cell  |
+```
+
 
  	       	                                
 + 	           	                                    
