@@ -22,30 +22,24 @@ Compare:
 | Symbol        | Meaning       |Example      |
 | ------------- | ------------- |------------- |
 | +  | add  |3+7 = 10  |
-| Content Cell  | Content Cell  |Content Cell  |
-```
+| -  | subtract  |5−2 = 3  |
+| x  | multiply  |4×3 = 12  |
+| ÷  | divide  | 20÷5 = 4  |
+| /  | divide  | 20/5 = 4  |
+| ( )  | grouping symbols  |2(a−3)  |
+| [ ]  | grouping symbols  | 2[ a−3(b+c) ]  |
+| { }  | set symbols  |{1, 2, 3}  |
+| π  | pi  |A = πr2  |
+| ∞  | infinity  |∞ is endless  |
+| =  | equals |1+1 = 2  |
+| ≈  | approximately equal to π  | π≈3.14  |
+| ≠  |  not equal to  |π ≠ 2  |
+| < ≤  | less than, less than or equal to  | 2 < 3  |
+| > ≥  | greater than, greater than or equal to  | 5 > 1  |
+| √  | radical symbol 	square root ("radical") | √4 = 2  |
+| °  | degrees  | 20°  |
+|   | therefore  | a=b b=a  |
 
-
- 	       	                                
-+ 	           	                                    
-− 	          subtract 	                                5−2 = 3
-× 	          multiply 	                                4×3 = 12
-÷ 	          divide 	                                  20÷5 = 4
-/ 	          divide 	                                  20/5 = 4
-( ) 	        grouping symbols 	                        2(a−3)
-[ ] 	        grouping symbols 	                        2[ a−3(b+c) ]
-{ } 	        set symbols 	                            {1, 2, 3}
-π 	          pi 	                                      A = πr2
-∞ 	          infinity 	                                ∞ is endless
-= 	          equals 	                                  1+1 = 2
-≈             approximately equal to π                  π≈3.14
-≠ 	          not equal to 	                            π ≠ 2
-< ≤ 	        less than, less than or equal to 	        2 < 3
-> ≥ 	        greater than, greater than or equal to 	  5 > 1
-√             radical symbol 	square root ("radical") 	√4 = 2
-° 	          degrees 	                                20°
-              therefore  	                              a=b b=a
-```
 
 ### Currency symbols
 ```
