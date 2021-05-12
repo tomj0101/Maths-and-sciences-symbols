@@ -42,23 +42,21 @@ Compare:
 
 
 ### Currency symbols
-```
- 	   name 	        usage
-----------------------------------  
-$	   dollar	        United States (USD), Canada (CAD), Australia (AUD), etc.
-€	   euro	          Eurozone (EUR)
-¢	   cent	          1/100 of a dollar or euro
-£	   pound	        United Kingdom (GBP)
-¥	   yen	          Japan (JPY)
-₿	   bitcoin	      cryptocurrency (XBT, BTC)
-฿	   baht	          Thailand (THB)
-₫	   dong	          Vietnam (VND)
-₴	   hryvnia	      Ukraine (UAH)
-₪	   shekel	        Israel (ILS)
-₽	   ruble	        Russia (RUB)
-₹	   rupee	        India (INR)
-₩	   won	          South Korea (KRW)
-```
+|      | name 	     | usage        |
+| -----|-------------|--------------|
+|$     | dollar	     | United States (USD), Canada (CAD), Australia (AUD), etc. |
+|€     | euro	     | Eurozone (EUR) |
+|¢     | cent	     | 1/100 of a dollar or euro |
+|£     | pound	     | United Kingdom (GBP) |
+|¥     | yen	     | Japan (JPY) |
+|₿     | bitcoin	 | cryptocurrency (XBT, BTC) |
+|฿     | baht	     | Thailand (THB) |
+|₫     | dong	     | Vietnam (VND) |
+|₴     | hryvnia	 | Ukraine (UAH) |
+|₪     | shekel	     | Israel (ILS) |
+|₽     | ruble	     | Russia (RUB) |
+|₹      | rupee	      | India (INR) |
+|₩     | won	     | South Korea (KRW) |
 
 ### Generics symbols
 ```
