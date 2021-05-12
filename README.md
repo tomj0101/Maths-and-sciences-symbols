@@ -20,8 +20,13 @@ Compare:
 
 ### Mathematical symbols - Part II (Simple symbols)
 ```
-Symbol 	      Meaning 	                                Example
-+ 	          add 	                                    3+7 = 10
+| Symbol        | Meaning       |Example      |
+| ------------- | ------------- |------------- |
+| +  | add  |3+7 = 10  |
+| Content Cell  | Content Cell  |Content Cell  |
+
+ 	       	                                
++ 	           	                                    
 − 	          subtract 	                                5−2 = 3
 × 	          multiply 	                                4×3 = 12
 ÷ 	          divide 	                                  20÷5 = 4
