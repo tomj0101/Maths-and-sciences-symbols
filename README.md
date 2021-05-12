@@ -38,7 +38,7 @@ Compare:
 | > ≥  | greater than, greater than or equal to  | 5 > 1  |
 | √  | radical symbol 	square root ("radical") | √4 = 2  |
 | °  | degrees  | 20°  |
-|   | therefore  | a=b b=a  |
+| ∴  | therefore  | a=b ∴ b=a  |
 
 
 ### Currency symbols
